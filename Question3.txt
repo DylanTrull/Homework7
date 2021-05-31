@@ -1,0 +1,7 @@
+A test first approach to the following another user
+
+1. Create a test that redirects to a confirmation page
+2. Create code to check if user already follows the person.
+3. Create code that links follower and following pages of the two people
+4. Create a test that trys to display only followed imaged.
+5. display the user in the following/followers
